@@ -26,7 +26,7 @@ const Navbar = () => {
                         className="h-auto w-auto flex flex-row items-center"
                     >
                         <span className="font-serif font-extrabold text-xl ml-[5px] hidden md:block text-gray-300">
-                            Guduguntla Tharun
+                            Molugu Saikumar
                         </span>
                     </Link>
 

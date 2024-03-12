@@ -35,12 +35,7 @@ export const Skill_data = [
         width: 80,
         height: 80,
     },
-    {
-        skill_name: "React Query",
-        Image: "/reactquery.png",
-        width: 80,
-        height: 80,
-    },
+  
     {
         skill_name: "Type Script",
         Image: "/ts.png",
@@ -59,12 +54,7 @@ export const Skill_data = [
         width: 80,
         height: 80,
     },
-    {
-        skill_name: "Stripe Payment",
-        Image: "/stripe.webp",
-        width: 80,
-        height: 80,
-    },
+   
     {
         skill_name: "Node js",
         Image: "/node-js.png",
@@ -104,12 +94,7 @@ export const Frontend_skill = [
         width: 80,
         height: 80,
     },
-    {
-        skill_name: "Material UI",
-        Image: "/mui.png",
-        width: 80,
-        height: 80,
-    },
+    
     {
         skill_name: "React",
         Image: "/react.png",
@@ -122,12 +107,7 @@ export const Frontend_skill = [
         width: 80,
         height: 80,
     },
-    {
-        skill_name: "React Query",
-        Image: "/reactquery.png",
-        width: 80,
-        height: 80,
-    },
+ 
     {
         skill_name: "Type Script",
         Image: "/ts.png",
@@ -161,30 +141,14 @@ export const Backend_skill = [
         width: 40,
         height: 40,
     },
-    {
-        skill_name: "Fire base",
-        Image: "/Firebase.png",
-        width: 55,
-        height: 55,
-    },
-    {
-        skill_name: "Postger SQL",
-        Image: "/postger.png",
-        width: 70,
-        height: 70,
-    },
+    
     {
         skill_name: "My SQL",
         Image: "/mysql.png",
         width: 70,
         height: 70,
     },
-    {
-        skill_name: "Prisma",
-        Image: "/prisma.webp",
-        width: 70,
-        height: 70,
-    },
+    
     {
         skill_name: "Graphql",
         Image: "/graphql.png",
@@ -193,33 +157,7 @@ export const Backend_skill = [
     },
 ];
 
-export const Full_stack = [
-    {
-        skill_name: "React Native",
-        Image: "/ReactNative .png",
-        width: 70,
-        height: 70,
-    },
-    {
-        skill_name: "Tauri",
-        Image: "/tauri.svg",
-        width: 70,
-        height: 70,
-    },
-    {
-        skill_name: "Docker",
-        Image: "/docker.webp",
-        width: 70,
-        height: 70,
-    },
 
-    {
-        skill_name: "Figma",
-        Image: "/figma.png",
-        width: 50,
-        height: 50,
-    },
-];
 
 export const Other_skill = [
     {
@@ -256,16 +194,16 @@ export const NavContent = [
 export const Education = [
     {
         title: "Bachelor Degree",
-        Institute: "Sreenidhi Institutes of Science and Technology",
+        Institute: "Swami Vivekananda Institute of Technology",
         Location: "Hyderabad, Telangana",
         course: "Bachelor of Technology",
-        stream: "Computer Science and Engineering",
+        stream: "Computer Science and Engineering(CSE AI & ML)",
         year: " 2020 - 2024 ",
         itemIndex: 0,
     },
     {
         title: "Intermediate",
-        Institute: "Sri Chaitanya Junior College",
+        Institute: "Ships(Sri Haritha Institute of Professional Studies)Junior College",
         Location: "Hyderabad, Telangana",
         year: " 2018 - 2020 ",
         itemIndex: 1,
@@ -332,12 +270,7 @@ export const skillsData = [
                 width: 80,
                 height: 80,
             },
-            {
-                name: "Kubernetes",
-                Image: "/kubernetes.png",
-                width: 80,
-                height: 80,
-            },
+            
             {
                 name: "Socket.io",
                 Image: "/socket.png",
@@ -362,12 +295,7 @@ export const skillsData = [
                 width: 80,
                 height: 80,
             },
-            {
-                name: "PostgreSQL",
-                Image: "/postgresql.png",
-                width: 80,
-                height: 80,
-            },
+            
             {
                 name: "ChakraUI",
                 Image: "/chakraui.png",
@@ -416,42 +344,15 @@ export const skillsData = [
                 width: 80,
                 height: 80,
             },
-            {
-                name: "Image Processing",
-                Image: "/imageprocessing.png",
-                width: 80,
-                height: 80,
-            },
-            {
-                name: "Deep Learning",
-                Image: "/deeplearning.jpeg",
-                width: 80,
-                height: 80,
-            },
+            
+          
             {
                 name: "Machine Learning",
                 Image: "/ml.png",
                 width: 80,
                 height: 80,
             },
-            {
-                name: "Data Science",
-                Image: "/datascience.jpeg",
-                width: 80,
-                height: 80,
-            },
-            {
-                name: "Tensorflow",
-                Image: "/tensorflow.png",
-                width: 80,
-                height: 80,
-            },
-            {
-                name: "Keras",
-                Image: "/keras.png",
-                width: 80,
-                height: 80,
-            },
+           
             {
                 name: "Python",
                 Image: "/python.png",
@@ -470,30 +371,14 @@ export const skillsData = [
                 width: 80,
                 height: 80,
             },
-            {
-                name: "Scikit-Learn",
-                Image: "/scikit.png",
-                width: 80,
-                height: 80,
-            },
-            {
-                name: "MatplotLib",
-                Image: "/matplotlib.svg",
-                width: 80,
-                height: 80,
-            },
+            
             {
                 name: "AWS",
                 Image: "/aws.png",
                 width: 80,
                 height: 80,
             },
-            {
-                name: "Wandb",
-                Image: "/wandb.png",
-                width: 80,
-                height: 80,
-            },
+            
         ],
     },
     {
@@ -548,12 +433,7 @@ export const skillsData = [
                 width: 80,
                 height: 80,
             },
-            {
-                name: "Linux",
-                Image: "/linux.png",
-                width: 80,
-                height: 80,
-            },
+            
             {
                 name: "Windows",
                 Image: "/windows.png",
@@ -587,16 +467,7 @@ export const workData = [
         gitLink: "https://github.com/Tharun2511/online-chat-app",
         liveLink: "https://online-chat-app-jknb.onrender.com/",
     },
-    {
-        title: "Weather Application",
-        image: "/p7.png",
-        width:1770,
-        height:885,
-        Technologies: "NextJS Fullstack, MongoDB",
-        desc: "A dynamic platform for showcasing skills, experiences, and accomplishments in a visually engaging manner, tailored to professional aspirations. Crafted to impress and engage potential employers and collaborators.",
-        gitLink: "https://github.com/Tharun2511/dailyweather",
-        liveLink: "https://dailyweather-theta.vercel.app",
-    },
+   
     {
         title: "Personal Portfolio",
         image: "/p2.png",
@@ -617,34 +488,5 @@ export const workData = [
         gitLink: "https://github.com/Tharun2511/vidly-FE",
         liveLink: "https://vidly-fe.onrender.com/",
     },
-    {
-        title: "Sign Language Recognition",
-        image: "/p4.png",
-        width:730,
-        height:365,
-        Technologies: "OpenCV, NLP, Tensorflow, Python",
-        desc: "Break barriers with innovative sign language recognition technology. Empower the deaf and mute community through seamless sign language interpretation with our cutting-edge technology.",
-        gitLink: "",
-        liveLink: "",
-    },
-    {
-        title: "Human Emotion Detection",
-        image: "/p5.png",
-        width:1200,
-        height:600,
-        Technologies: "OpenCV, Tensorflow, Python, FastAPI",
-        desc: "Uncover a new dimension of human expression with advanced facial emotion detection algorithms. Experience real-time analysis of facial expressions with state-of-the-art emotion recognition technology.",
-        gitLink: "https://github.com/Tharun2511/Human_Emotions_Detection",
-        liveLink: "",
-    },
-    {
-        title: "Malaria Diagnosis using CNN",
-        image: "/p6.jpg",
-        width:598,
-        height:299,
-        Technologies: "CNN, Tensorflow, Python, Flask",
-        desc: "Utilize Convolutional Neural Networks (CNN) to revolutionize malaria diagnosis. Employ advanced image processing techniques for accurate, efficient detection of malaria parasites in blood samples.",
-        gitLink: "",
-        liveLink: "",
-    },
+    
 ];

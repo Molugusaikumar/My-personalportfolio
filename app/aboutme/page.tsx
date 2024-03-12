@@ -45,9 +45,9 @@ const AboutMe = () => {
                                 <div className="pl-2">A little bit about me</div>
                             </div>
                             <p className="text-base text-gray-400 font-serif px-5 pb-4 text-justify">
-                                Hello! I&apos;m Guduguntla Tharun, a final-year
-                                Computer Science student at Sreenidhi Institutes
-                                of Science and Technology, deeply passionate
+                                Hello! I&apos;m Molugu Saikumar, a final-year
+                                Computer Science student at Swami Vivekananda Insitution 
+                                of and Technology, deeply passionate
                                 about Web development and Artificial
                                 intelligence. Constantly learning new
                                 technologies, my strengths include attention to
