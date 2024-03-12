@@ -40,7 +40,7 @@ const HeroContent = () => {
                         </span>
                     </span>
                     <span className="text-4xl font-semibold">
-                        Lets build something amazing...
+                        Lets build something amazing
                     </span>
                 </motion.div>
 
@@ -48,12 +48,12 @@ const HeroContent = () => {
                     variants={slideInFromLeft(0.8)}
                     className="text-sm text-gray-400 my-5 max-w-[600px]"
                 >
-                    I a final year student at SVIT, passionate about
+                    Iam a final year student at SVIT, passionate about
                     full stack development and Artificial Intelligence.
                 </motion.p>
                 <motion.a
                     variants={slideInFromLeft(1)}
-                    href="https://drive.google.com/file/d/1xeiuWw7v7o38ruBVHewMCWpLDzCvyqk7/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1hfMY5-nk1WTyPaf-IVogNHqMuFOqc6zP/view"
                     target="_blank"
                     className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
                 >

@@ -464,29 +464,20 @@ export const workData = [
         height:768,
         Technologies: "ReactJS, NodeJs, MongoDB, Socket.io",
         desc: "An innovative online chat application enabling real-time communication across the globe. Seamlessly connect with friends and colleagues, fostering collaboration and connectivity.",
-        gitLink: "https://github.com/Tharun2511/online-chat-app",
+        gitLink: "https://github.com/Molugusaikumar/chat-application",
         liveLink: "https://online-chat-app-jknb.onrender.com/",
     },
    
     {
         title: "Personal Portfolio",
-        image: "/p2.png",
+        image: "/my.png",
         width:1674,
         height:837,
         Technologies: "NextJS, TailwindCSS, Framer Motion",
         desc: "Crafted a dynamic weather application with Next.js and MongoDB, seamlessly amalgamating real-time weather with intuitive interface for quick and accurate forecasts, ensuring users stay informed and prepared in style.",
-        gitLink: "https://github.com/Tharun2511/Portfolio",
-        liveLink: "https://portfolio-tharun2511s-projects.vercel.app/",
+        gitLink: "https://github.com/Molugusaikumar/My-Portfolio",
+        liveLink: "https://portfolio-Molugusaikumar.vercel.app/",
     },
-    {
-        title: "Movie Renting System",
-        image: "/p3.png",
-        width:1300,
-        height:650,
-        Technologies: "ReactJS, NodeJs, MongoDB, ExpressJS",
-        desc: "Effortlessly rent movies online with our intuitive platform. Browse, select, and enjoy your favorite films from the comfort of your home. Streamline your movie rental experience with our user-friendly interface.",
-        gitLink: "https://github.com/Tharun2511/vidly-FE",
-        liveLink: "https://vidly-fe.onrender.com/",
-    },
+    
     
 ];
