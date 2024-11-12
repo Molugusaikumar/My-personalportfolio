@@ -462,7 +462,7 @@ export const workData = [
         image: "/p1.png",
         width:1536,
         height:768,
-        Technologies: "ReactJS, NodeJs, MongoDB, Socket.io",
+        Technologies: "ReactJSss, NodeJs, MongoDB, Socket.io",
         desc: "An innovative online chat application enabling real-time communication across the globe. Seamlessly connect with friends and colleagues, fostering collaboration and connectivity.",
         gitLink: "https://github.com/Molugusaikumar/chat-application",
         liveLink: "https://online-chat-app-jknb.onrender.com/",
@@ -474,10 +474,22 @@ export const workData = [
         width:1674,
         height:837,
         Technologies: "NextJS, TailwindCSS, Framer Motion",
-        desc: "Crafted a dynamic weather application with Next.js and MongoDB, seamlessly amalgamating real-time weather with intuitive interface for quick and accurate forecasts, ensuring users stay informed and prepared in style.",
+        desc: "A responsive and visually appealing portfolio website showcasing my skills and projects. Utilizing Next.js, TailwindCSS, and Framer Motion for a sleek and interactive user experience.",
         gitLink: "https://github.com/Molugusaikumar/My-Portfolio",
-        liveLink: "https://portfolio-Molugusaikumar.vercel.app/",
+        liveLink: "https://mypersonalportfoliocom.netlify.app/",
     },
+
+
+    {
+        title: "E-Commerce site",
+        image: "/e1.png",
+        width:1674,
+        height:837,
+        Technologies: "ReactJS, TailwindCSS, JavaScript",
+        desc: "A shopping e-commerce site with responsive design and fully functional payment gateway. The site offers seamless shopping experience, user-friendly interface, and secure payment gateway.",
+        gitLink: "https://github.com/Molugusaikumar/printify-clone",
+        liveLink: "https://printifyapp.netlify.app/",
+    }
     
     
 ];
